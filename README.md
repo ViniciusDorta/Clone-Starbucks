@@ -8,7 +8,7 @@
 
 ### 📁 Acesso ao projeto
 
-Você pode acessar os arquivos do projeto clicando aqui ViniciusDorta.github.io/Clone-Starbucks/.
+Você pode acessar os arquivos do projeto clicando [aqui](viniciusdorta.github.io/Clone-Starbucks/).
 
 ### 🛠️ Descrição do projeto
 
