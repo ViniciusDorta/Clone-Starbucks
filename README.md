@@ -1,15 +1,22 @@
 # Clone-Starbucks
 
+<br />
+
 ## Lading-page Inspirada na Maior Franquia de Café que Existe no Mundo!
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=RESPONSIVE&message=EM%20PROGRESSO&color=GREEN&style=for-the-badge)
+<br />
 
 ### 🛠️ Descrição do projeto
 
-Desenvolvido com base nas aulas da Danki Code mestradas por Guilherme Grilo, landing-page inspirado no Starbucks ajustado para varios tamanhos de tela
+Desenvolvido com base nas aulas da Danki Code mestradas por Guilherme Grilo, landing-page inspirado no Starbucks
+
+<br />
 
 ### ✔️ Técnicas e tecnologias utilizadas
 
 - ``HTML 5``
 - ``CSS 3``
+
+<br />
+
+![print-starbucks](https://user-images.githubusercontent.com/69944075/212496173-12a01952-9d77-4d1b-9302-9cb3cebe11a8.png)
